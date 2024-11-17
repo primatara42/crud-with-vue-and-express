@@ -1,3 +1,4 @@
+# Normalisasi Basis Data untuk Studi Kasus Manajemen Informasi Karyawan
 Dalam konteks basis data, normalisasi adalah proses dalam mengorganisasi data yang ada didalam basis data yang prosesnya adalah memecah suatu tabel menjadi beberapa tabel kecil yang memiliki data saling berkaitan. Tujuan dari normalisasi ini adalah untuk mengurangi redudansi dan menghindari masalah seperti insert anomali, update anomali dan delete anomali.  Di contoh kasus ini, akan digunakan basis data di bidang Manajemen Informasi Karyawan dan Departmen. Untuk gambar hasil bentuk basis data yang belum di normalisasi, normalisasi 1NF, 2NF dan 3NF dapat dilihat di project repository ini. Pertama adalah bentuk basis data yang belum di normalisasi. Ketika belum dinormalisasi, berdasarkan pada file "database_unormalized", terdapat beberapa kolom seperti : 
 -id 
 -name 
